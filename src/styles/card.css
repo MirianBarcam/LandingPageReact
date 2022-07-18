@@ -1,0 +1,15 @@
+.card{
+padding: 0px;
+}
+.card-footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
