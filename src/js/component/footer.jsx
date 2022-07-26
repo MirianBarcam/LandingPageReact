@@ -1,5 +1,5 @@
 import React from "react";
-import "/workspace/react-hello/src/styles/footer.css";
+import "./../../styles/card.css";
 
 const Footer = ()=>{
     return (

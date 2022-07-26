@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "./card.jsx";
-import "/workspace/react-hello/src/styles/containerCards.css";
+import "./../../styles/containerCards.css";
 
 const ContainerCards = () => {
 

@@ -1,6 +1,6 @@
 import React from "react";
 import imgCard from "../../img/img-card.jpg";
-import "/workspace/react-hello/src/styles/card.css";
+import "./../../styles/card.css";
 
 const Card = (prop) => {
   const description = prop.description;
