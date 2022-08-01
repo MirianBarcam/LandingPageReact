@@ -1,0 +1,15 @@
+.navbar{
+    background-color: rgb(51, 56, 63) ;
+}
+
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar a:active{
+    color: grey;
+}
